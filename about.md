@@ -8,7 +8,7 @@ Chief Architect, SNUPI Technologies
 
 ### More Information
 
-SNUPI Technologies (Sensor Networks Utilizing Powerline Infrastruction) is an IoT startup in Seattle, WA, USA.
+[SNUPI Technologies](http://www.snupi.com) (Sensor Networks Utilizing Powerline Infrastruction) is an IoT startup in Seattle, WA, USA. As the Chief Architect, I'm responsible for the technical vision for the company.
 
 ### Contact me
 
