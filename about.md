@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Chief Architect, SNUPI Technologies
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+SNUPI Technologies (Sensor Networks Utilizing Powerline Infrastruction) is an IoT startup in Seattle, WA, USA.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dsmyth@signett.com](mailto:dsmyth@signett.com)
