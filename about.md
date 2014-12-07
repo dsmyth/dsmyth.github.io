@@ -9,7 +9,7 @@ IoT Geek
 
 ### More Information
 
-I'm currently the Chief Architect for [SNUPI Technologies](http://www.snupi.com) (Sensor Networks Utilizing Powerline Infrastruction), an IoT startup in Seattle, WA, USA. I'm responsible for the technical vision for the companies IoT efforts.
+I'm currently the Chief Architect for [SNUPI Technologies](http://www.snupi.com) (Sensor Networks Utilizing Powerline Infrastruction), an IoT startup in Seattle, WA, USA. I'm responsible for the technical vision for the company's IoT efforts.
 
 ### Contact me
 
