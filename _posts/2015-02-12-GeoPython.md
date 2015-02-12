@@ -1,3 +1,8 @@
+---
+layout: post
+title: Learning Python with a little GeoJSON
+---
+
 Trying to teach myself a little Python, decided to tinker a bit with GeoJSON.
 
 Whipped up a quick script that read data from the Seattle City Health Inspector results 
