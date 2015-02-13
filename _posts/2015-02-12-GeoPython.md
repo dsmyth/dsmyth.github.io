@@ -10,6 +10,6 @@ database & spurts out a GeoJSON file that show inspected restaurants with the la
 
 Those with a "satisfactory" result are coded green. Those with an "unsatisfactory" result are coded red. Otherwise, they are grey.
 
-[Seattle 98105 Health Inspection Results](https://github.com/dsmyth/seattlehealthgeojson/blob/master/inspections.geojson)
+<script src="https://embed.github.com/view/geojson/dsmyth/seattlehealthgeojson/master/inspections.geojson?height=540&width=800"></script>
 
-<script src="https://embed.github.com/view/geojson/dsmyth/seattlehealthgeojson/master/inspections.geojson"></script>
+Here's the (very simple) code if you are interested: [Seattle 98105 Health Inspection Results](https://github.com/dsmyth/seattlehealthgeojson)
