@@ -12,3 +12,5 @@ Alpine linux, adding in glibc for Oracle Java, then downloading Java 8 and strip
 This also resulted in startup time dropping from ~200s to ~20s for launching a simple dropwizard based web service.
 
 Have a look! https://github.com/dsmyth/docker-alpine-java-raspberrypi3
+
+Also see the same for a BeagleBone Black: https://github.com/dsmyth/docker-alpine-java-beagleboneblack
