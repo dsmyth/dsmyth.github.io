@@ -9,6 +9,6 @@ me to building a Docker image on top of Alpine Linux, and only bringing in the J
 By the end of it, I had my docker image down to 172MB (from a start of 318M with raspian Jessie and the PPA) by switching to
 Alpine linux, adding in glibc for Oracle Java, then downloading Java 8 and stripping out everything but the JRE.
 
-This also resulted in startup time dropping from ~200s to ~2s for launching a simple dropwizard based web service.
+This also resulted in startup time dropping from ~200s to ~20s for launching a simple dropwizard based web service.
 
 Have a look! https://github.com/dsmyth/docker-alpine-java-raspberrypi3
